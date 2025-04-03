@@ -13,8 +13,7 @@
 
 # Files in this Repository
 - (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Sales%20Performance%20Pdf.pdf) complete Dashboard of financial Sales.
-- (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Sales%20Performance.pdf) - snapshot of data modelling of data set and excel file.
-  
+- (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Data%20Modelling.pdf) - snapshot of data modelling of data set and excel file.
 - (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Monthly%20sales%20Screenshot%20.png) - Snapshot of the monthly sales performance dashboard.
 
 - (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Quartly%20sales%20-Screenshot.png) - Snapshot of the quarterly sales performance dashboard.
