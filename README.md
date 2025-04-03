@@ -15,9 +15,9 @@
 
 - Financial Sample.xlsx - The dataset containing sales, cost, profit, and discount-related data.
   
-- Monthly sales Screenshot.png - Snapshot of the monthly sales performance dashboard.
+- (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Monthly%20sales%20Screenshot%20.png) - Snapshot of the monthly sales performance dashboard.
 
-- [Quarterly sales Screenshot.png](https://github.com/VRMutyala/Financial-Power-BI/blob/main/Quartly%20sales%20-Screenshot.png) - Snapshot of the quarterly sales performance dashboard.
+- (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Quartly%20sales%20-Screenshot.png) - Snapshot of the quarterly sales performance dashboard.
 
 # How to Use
 ## Download the Financial Sample.xlsx file and import it into Power BI.
