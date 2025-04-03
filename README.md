@@ -17,7 +17,7 @@
   
 - Monthly sales Screenshot.png - Snapshot of the monthly sales performance dashboard.
 
-- Quarterly sales Screenshot.png - Snapshot of the quarterly sales performance dashboard.
+- [Quarterly sales Screenshot.png](https://github.com/VRMutyala/Financial-Power-BI/blob/main/Quartly%20sales%20-Screenshot.png) - Snapshot of the quarterly sales performance dashboard.
 
 # How to Use
 ## Download the Financial Sample.xlsx file and import it into Power BI.
