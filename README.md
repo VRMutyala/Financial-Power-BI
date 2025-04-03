@@ -13,7 +13,7 @@
 
 # Files in this Repository
 
-- Financial Sample.xlsx - The dataset containing sales, cost, profit, and discount-related data.
+- (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Sales%20Performance.pdf) - snapshot of data modelling of data set and excel file.
   
 - (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Monthly%20sales%20Screenshot%20.png) - Snapshot of the monthly sales performance dashboard.
 
@@ -33,5 +33,4 @@
 - Quarterly sales trends show a significant increase in Q4 2014 ($30M).
 
 # Contributing
-
-Feel free to contribute by adding new visualizations, improving reports, or integrating additional datasets. Fork the repo and create a pull request with your updates.
+- Feel free to contribute by adding new visualizations, improving reports, or integrating additional datasets. Fork the repo and create a pull request with your updates.
