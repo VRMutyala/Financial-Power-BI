@@ -12,7 +12,7 @@
 - Interactive Filters for Country, Year, Product, Discount Band, and Segment
 
 # Files in this Repository
-
+- Sales Performance Pdf.pdf complete Dashboard of financial Sales.
 - (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Sales%20Performance.pdf) - snapshot of data modelling of data set and excel file.
   
 - (https://github.com/VRMutyala/Financial-Power-BI/blob/main/Monthly%20sales%20Screenshot%20.png) - Snapshot of the monthly sales performance dashboard.
