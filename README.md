@@ -3,6 +3,8 @@
 # Overview
 - This repository contains a Sales Performance Dashboard built using Microsoft Power BI, leveraging data from an Excel file . The dashboard provides insights into sales trends, profitability, and performance across different dimensions such as time, product, and segment.
 
+https://app.powerbi.com/reportEmbed?reportId=7c09d14d-bcd7-43d1-9bc7-9e25c7803af5&autoAuth=true&ctid=f1f14c92-fde3-489f-8eeb-514d2f167be6
+
 # Features
 - Monthly and Quarterly Sales Performance Analysis.
 - Key Performance Indicators (KPIs) including Total Sales, Total Profit, and Gross Sales.
