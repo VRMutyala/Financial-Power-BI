@@ -12,7 +12,9 @@ https://app.powerbi.com/reportEmbed?reportId=7c09d14d-bcd7-43d1-9bc7-9e25c7803af
 - Profitability Analysis by Discount Band
 - Sales Distribution by Product and Business Segment
 - Interactive Filters for Country, Year, Product, Discount Band, and Segment
-
+<img width="1417" height="796" alt="Image" src="https://github.com/user-attachments/assets/1348f3ab-55cb-4d94-a4c8-b7def7d8cd8d" />
+<img width="1415" height="796" alt="Image" src="https://github.com/user-attachments/assets/80a5ae92-4a45-415a-8b6e-8f0ff4c8d59a" />
+<img width="1410" height="805" alt="Image" src="https://github.com/user-attachments/assets/385f6fb1-9560-443d-96c2-f0c9aae3b49f" />
 # How to Use
 ## Download the Financial Sample.xlsx file and import it into Power BI.
 
